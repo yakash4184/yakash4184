@@ -30,7 +30,9 @@ Full Stack JavaScript Developer | React.js | Node.js | MongoDB | MySQL
 
 ### 👨‍💻 Languages
 <p>
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus" />
 </p>
 
 ### 🌐 Frontend

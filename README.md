@@ -1,25 +1,28 @@
 <h1 align="center">Hi 👋, I'm Akash Yadav</h1>
-<h3 align="center">Full Stack Developer | Java | React | Spring Boot</h3>
+<h3 align="center">
+Full Stack JavaScript Developer | React.js | Node.js | MongoDB | MySQL
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yakash4184&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/SpringBoot-Backend-green?style=for-the-badge&logo=springboot" />
-  <img src="https://img.shields.io/badge/Laravel-PHP-red?style=for-the-badge&logo=laravel" />
+  <img src="https://img.shields.io/badge/JavaScript-Developer-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/React.js-Frontend-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/API-Development-black?style=for-the-badge&logo=postman" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE Student
-- 💻 Full Stack Developer
-- 📊 DSA & Problem Solving Enthusiast
-- 🌱 Currently learning **System Design & CI/CD**
-- ⚡ Passionate about real-world projects
+- 🎓 B.Tech CSE Student  
+- 💻 Full Stack **JavaScript Developer**  
+- 🌐 Building **REST APIs**
+- 🧠 Working with **MongoDB & MySQL**
+- 🔄 Learning **CI/CD Pipelines**
+- 📊 DSA & Problem Solving Enthusiast  
 
 ---
 
@@ -27,38 +30,44 @@
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php" />
 </p>
 
 ### 🌐 Frontend
 <p>
+  <img src="https://img.shields.io/badge/React.js-blue?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/HTML5-red?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
 </p>
 
-### 🧠 Backend
+### ⚙️ Backend & API
 <p>
-  <img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot" />
-  <img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express" />
 </p>
 
-### 🗄️ Database & Tools
+### 🗄️ Databases
 <p>
+  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
+</p>
+
+### 🔄 DevOps & Tools
+<p>
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-blue?style=for-the-badge&logo=githubactions" />
+  <img src="https://img.shields.io/badge/CI/CD-Pipeline-purple?style=for-the-badge" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
-- 🏥 **Hospital OPD Backend System** – Spring Boot
-- 🚆 **Railway Reservation System** – Java
-- 🏫 **School Feedback System** – HTML, CSS, JS
-- 📊 **Health Tracker** – Laravel
+- ⚛️ **React Web Applications**
+- 🌐 **REST APIs using Node.js & Express**
+- 🧠 **MongoDB-based Backend Systems**
+- 🗄️ **MySQL Database Applications**
+- 🔄 **CI/CD Pipeline using GitHub Actions**
 
 ---
 
